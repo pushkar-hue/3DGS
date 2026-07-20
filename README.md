@@ -37,6 +37,7 @@ The `gaussian-render` directory contains exported Gaussian Splatting point cloud
 
 - `iteration_7000.ply` – Initial Gaussian representation used to initialize SuGaR.
 - `iteration_30000.ply` – Final Gaussian representation after training.
+<img width="1584" height="821" alt="image" src="https://github.com/user-attachments/assets/745d1da2-15dc-42a0-a293-a4875d762572" />
 
 ### Final Meshes
 
